@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class unko2 : MonoBehaviour
 {
+    // 試しに変えてみた
     // Start is called before the first frame update
     void Start()
     {
